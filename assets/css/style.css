@@ -274,6 +274,9 @@ hr {
         height: 150px;
         padding: 0;
     }
+    #running-photos {
+        column-count: 3;
+    }
 }
 /* for medium screen sizes 950px */
 @media  screen and (max-width:950px) {
@@ -306,5 +309,7 @@ hr {
         text-align: center;
         padding: 0 20px;
     }
-
+    #running-photos {
+        column-count: 2;
+    }
 }
