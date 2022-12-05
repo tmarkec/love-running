@@ -190,3 +190,11 @@ hr {
     border-radius: 50%;
 }
 
+/* times and running distances*/
+#times {
+    background: url('./images/dublin-city.webp');
+    background-size: cover;
+    background-position: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
