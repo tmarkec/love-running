@@ -230,3 +230,14 @@ hr {
     padding: 3%;
     color: #3a3a3a;
 }
+
+/*gallery html*/
+#running-photos {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0px;
+}
+#running-photos > img {
+    width: 100%;
+}
